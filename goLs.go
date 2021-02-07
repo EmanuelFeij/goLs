@@ -35,4 +35,5 @@ func main() {
 	for _, slice := range sliceMyFiles {
 		fmt.Println(slice)
 	}
+
 }
